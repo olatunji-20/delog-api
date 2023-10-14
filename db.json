@@ -132,38 +132,6 @@
         "topic": "Building your API Stack",
         "sneakPeak": "The rise of RESTful APIs has been met by a rise in tools for creating, testing and managing them.",
         "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/build.png"            
-      },
-      {
-        "id": 11,
-        "authorName": "Lana Steiner",
-        "date": "10 Jan 2022",
-        "topic": "How collaboration makes us better designers",
-        "sneakPeak": "Collaboration can make our teams stronger and our individual designs better.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/collabo.png"            
-      },
-      {
-        "id": 12,
-        "authorName": "Phoenix Baker",
-        "date": "09 Jan 2022",
-        "topic": "What is Wireframing?",
-        "sneakPeak": "Introduction to Wireframing and it's principles. Learn from the best in the industry.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/wireframe.png"            
-      },
-      {
-        "id": 13,
-        "authorName": "Drew Cano",
-        "date": "08 Jan 2022",
-        "topic": "Migrating to Linear 101",
-        "sneakPeak": "How do you create compelling presentations that wow your colleagues and impress your managers?",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/migrate.png"            
-      },
-      {
-        "id": 14,
-        "authorName": "Natali Craig",
-        "date": "07 Jan 2022",
-        "topic": "Bill Walsh leadership lessons",
-        "sneakPeak": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning dynasty",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/walsh.png"            
       }
     ]
 }
