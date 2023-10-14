@@ -164,46 +164,6 @@
         "topic": "Bill Walsh leadership lessons",
         "sneakPeak": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning dynasty",
         "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/walsh.png"            
-      },
-      {
-        "id": 15,
-        "authorName": "Alec Whitten",
-        "date": "06 Jan 2022",
-        "topic": "PM mental models",
-        "sneakPeak": "Mental models are simple expressions of complex processes or relationships.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/mental.png"            
-      },
-      {
-        "id": 16,
-        "authorName": "Olivia Rhye",
-        "date": "05 Jan 2022",
-        "topic": "Our top 10 Javascript frameworks to use",
-        "sneakPeak": "JavaScript frameworks make development easy with extensive features and functionalities.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/javascript.png"            
-      },
-      {
-        "id": 17,
-        "authorName": "Phoenix Baker",
-        "date": "04 Jan 2022",
-        "topic": "UX review presentations",
-        "sneakPeak": "How do you create compelling presentations that wow your colleagues and impress your managers?",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/review.png"            
-      },
-      {
-        "id": 18,
-        "authorName": "Natali Craig",
-        "date": "03 Jan 2022",
-        "topic": "PM mental models",
-        "sneakPeak": "Mental models are simple expressions of complex processes or relationships.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/mental.png"            
-      },
-      {
-        "id": 19,
-        "authorName": "Alec Whitten",
-        "date": "02 Jan 2022",
-        "topic": "What is Wireframing?",
-        "sneakPeak": "Introduction to Wireframing and it's principles. Learn from the best in the industry.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/wireframe.png"            
       }
     ]
 }
