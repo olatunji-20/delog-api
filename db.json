@@ -4,49 +4,49 @@
           "id": 1,
           "name": "Olivia Rhye",
           "position": "Founder & CEO",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/olivia.png"
+          "imageUrl": "https://drive.google.com/file/d/1_cUP3ll2ZA8wJ3Y265vPU1MM-u9mEIQx/view?usp=drive_link"
         },
         {
           "id": 2,
           "name": "Phoenix Baker",
           "position": "Engineering Manager",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/baker.png"
+          "imageUrl": "https://drive.google.com/file/d/1dHHA7j6yIwa7ekWfBQqt4dAWRzVG4Zky/view?usp=drive_link"
         },
         {
           "id": 3,
           "name": "Lana Steiner",
           "position": "Product Manager",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/lana.png"
+          "imageUrl": "https://drive.google.com/file/d/1ULTgmwi9KT740mzmjbpS4xdW3vNK_JwB/view?usp=drive_link"
         },
         {
           "id": 4,
           "name": "Demi Wilkinson",
           "position": "Frontend Developer",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/demi.png"
+          "imageUrl": "https://drive.google.com/file/d/1crkLFzk_Pb9Ng7LoAz-vpO0d-LwMRyUj/view?usp=drive_link"
         },
         {
           "id": 5,
           "name": "Candice Wu",
           "position": "Backend Developer",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/candice.png"
+          "imageUrl": "https://drive.google.com/file/d/13VPdvHP6fmkmvjeg7XyZqQB9_ulES-w9/view?usp=drive_link"
         },
         {
           "id": 6,
           "name": "Natali Craig",
           "position": "Product Designer",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/natali.png"
+          "imageUrl": "https://drive.google.com/file/d/1zIRy_j31IRxEaK4Q1Zbd-pacaE7zmRWM/view?usp=drive_link"
         },
         {
           "id": 7,
           "name": "Drew Cano",
           "position": "UX Researcher",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/cano.png"
+          "imageUrl": "https://drive.google.com/file/d/1-tttTxhWFZoFOEX84vs020L93cr37drg/view?usp=drive_link"
         },
         {
           "id": 8,
           "name": "Orlando Diggs",
           "position": "Customer Success",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/orlando.png"
+          "imageUrl": "https://drive.google.com/file/d/1k92EuRhCOBbowBpKsS0d31MmkfoiJ6UD/view?usp=drive_link"
         }
     ],
 
@@ -59,7 +59,7 @@
         "date": "20 Jan 2022",
         "topic": "UX review presentations",
         "sneakPeak": "How do you create compelling presentations that wow your colleagues and impress your managers?",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/review.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1o7WVGdEXrmgduHfN4I-iJMFZgdCK6y2-/view?usp=drive_link"            
       },
       {
         "id": 2,
@@ -67,7 +67,7 @@
         "date": "19 Jan 2022",
         "topic": "Migrating to Linear 101",
         "sneakPeak": "Linear helps streaming software projects, sprints, tasks, and bug tracking. Here's how to get started.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/migrate.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/113earPqflZ81DiKMkfp3o65yW0hhxGQw/view?usp=drive_link"            
       },
       {
         "id": 3,
@@ -75,7 +75,7 @@
         "date": "18, Jan 2022",
         "topic": "Building your API Stack",
         "sneakPeak": "The rise of RESTful APIs has been met by a rise in tools for creating, testing and managing them.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/build.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1NfJztG01Uu2dAGZwuAD158OQzL-_AjNG/view?usp=drive_link"            
       },
       {
         "id": 4,
@@ -83,7 +83,7 @@
         "date": "14, Jan 2022",
         "topic": "How collaboration makes us better designers",
         "sneakPeak": "Collaboration can make our teams stronger and our individual designs better.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/collabo.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1WK6dI4epTMq3AfyiNduUwebUAuortP2j/view?usp=drive_link"            
       },
       {
         "id": 5,
@@ -91,7 +91,7 @@
         "date": "17, Jan 2022",
         "topic": "Bill Walsh leadership lessons",
         "sneakPeak": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning dynasty",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/walsh.png"
+        "thumbnailUrl": "https://drive.google.com/file/d/1K36A_Ez-5RNVeSkZuxwe06DJ5oMZF25i/view?usp=drive_link"
       },
       {
         "id": 6,
@@ -99,7 +99,7 @@
         "date": "16, Jan 2022",
         "topic": "PM mental models",
         "sneakPeak": "Mental models are simple expressions of complex processes or relationships.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/mental.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1dSnk63J35C7Ao36GY5XILzUawAQOQ2_k/view?usp=drive_link"            
       },
       {
         "id": 7,
@@ -107,7 +107,7 @@
         "date": "15 Jan 2022",
         "topic": "What is Wireframing?",
         "sneakPeak": "Introduction to Wireframing and it's principles. Learn from the best in the industry.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/wireframe.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1CVQfIiox16_Mxq-U6BJpMvV0g27bW7VQ/view?usp=drive_link"            
       },
       {
         "id": 8,
@@ -115,7 +115,7 @@
         "date": "13 Jan 2022",
         "topic": "Our top 10 Javascript frameworks to use",
         "sneakPeak": "JavaScript frameworks make development easy with extensive features and functionalities.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/javascript.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/15WfU7LfojV-60kQanAGSz83PTMBLcL7l/view?usp=drive_link"            
       },
       {
         "id": 9,
@@ -123,7 +123,7 @@
         "date": "12 Jan 2022",
         "topic": "Podcast: Creating a better CX Community",
         "sneakPeak": "Starting a community doesn't need to be complicated but how do you get started?",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/podcast.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1FTIjfM_ipCpCG666H62Xyh0Zl1cGfb7e/view?usp=drive_link"            
       },
       {
         "id": 10,
@@ -131,7 +131,7 @@
         "date": "11 Jan 2022",
         "topic": "Building your API Stack",
         "sneakPeak": "The rise of RESTful APIs has been met by a rise in tools for creating, testing and managing them.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/build.png"            
+        "thumbnailUrl": "https://drive.google.com/file/d/1NfJztG01Uu2dAGZwuAD158OQzL-_AjNG/view?usp=drive_link"            
       }
     ]
 }
