@@ -4,49 +4,49 @@
           "id": 1,
           "name": "Olivia Rhye",
           "position": "Founder & CEO",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/olivia.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/olivia.png"
         },
         {
           "id": 2,
           "name": "Phoenix Baker",
           "position": "Engineering Manager",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/baker.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/baker.png"
         },
         {
           "id": 3,
           "name": "Lana Steiner",
           "position": "Product Manager",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/lana.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/lana.png"
         },
         {
           "id": 4,
           "name": "Demi Wilkinson",
           "position": "Frontend Developer",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/demi.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/demi.png"
         },
         {
           "id": 5,
           "name": "Candice Wu",
           "position": "Backend Developer",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/candice.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/candice.png"
         },
         {
           "id": 6,
           "name": "Natali Craig",
           "position": "Product Designer",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/natali.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/natali.png"
         },
         {
           "id": 7,
           "name": "Drew Cano",
           "position": "UX Researcher",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/cano.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/cano.png"
         },
         {
           "id": 8,
           "name": "Orlando Diggs",
           "position": "Customer Success",
-          "imageUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/orlando.png"
+          "imageUrl": "https://contentionary-school.netlify.app/delog-images/orlando.png"
         }
     ],
 
@@ -59,7 +59,7 @@
         "date": "20 Jan 2022",
         "topic": "UX review presentations",
         "sneakPeak": "How do you create compelling presentations that wow your colleagues and impress your managers?",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/review.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/review.png"            
       },
       {
         "id": 2,
@@ -67,7 +67,7 @@
         "date": "19 Jan 2022",
         "topic": "Migrating to Linear 101",
         "sneakPeak": "Linear helps streaming software projects, sprints, tasks, and bug tracking. Here's how to get started.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/migrate.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/migrate.png"            
       },
       {
         "id": 3,
@@ -75,7 +75,7 @@
         "date": "18, Jan 2022",
         "topic": "Building your API Stack",
         "sneakPeak": "The rise of RESTful APIs has been met by a rise in tools for creating, testing and managing them.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/build.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/build.png"            
       },
       {
         "id": 4,
@@ -83,7 +83,7 @@
         "date": "14, Jan 2022",
         "topic": "How collaboration makes us better designers",
         "sneakPeak": "Collaboration can make our teams stronger and our individual designs better.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/collabo.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/collabo.png"            
       },
       {
         "id": 5,
@@ -91,7 +91,7 @@
         "date": "17, Jan 2022",
         "topic": "Bill Walsh leadership lessons",
         "sneakPeak": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning dynasty",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/walsh.png"
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/walsh.png"
       },
       {
         "id": 6,
@@ -99,7 +99,7 @@
         "date": "16, Jan 2022",
         "topic": "PM mental models",
         "sneakPeak": "Mental models are simple expressions of complex processes or relationships.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/mental.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/mental.png"            
       },
       {
         "id": 7,
@@ -107,7 +107,7 @@
         "date": "15 Jan 2022",
         "topic": "What is Wireframing?",
         "sneakPeak": "Introduction to Wireframing and it's principles. Learn from the best in the industry.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/wireframe.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/wireframe.png"            
       },
       {
         "id": 8,
@@ -115,7 +115,7 @@
         "date": "13 Jan 2022",
         "topic": "Our top 10 Javascript frameworks to use",
         "sneakPeak": "JavaScript frameworks make development easy with extensive features and functionalities.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/javascript.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/javascript.png"            
       },
       {
         "id": 9,
@@ -123,7 +123,7 @@
         "date": "12 Jan 2022",
         "topic": "Podcast: Creating a better CX Community",
         "sneakPeak": "Starting a community doesn't need to be complicated but how do you get started?",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/podcast.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/podcast.png"            
       },
       {
         "id": 10,
@@ -131,7 +131,7 @@
         "date": "11 Jan 2022",
         "topic": "Building your API Stack",
         "sneakPeak": "The rise of RESTful APIs has been met by a rise in tools for creating, testing and managing them.",
-        "thumbnailUrl": "https://raw.githubusercontent.com/olatunji-20/delog-api/9735771eb6584e7217203cbbefbbe02d524f0441/build.png"            
+        "thumbnailUrl": "https://contentionary-school.netlify.app/delog-images/build.png"            
       }
     ]
 }
